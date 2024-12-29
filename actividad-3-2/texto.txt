@@ -1,0 +1,7 @@
+Java es un lenguaje de programación versátil y robusto que ha demostrado su valía en una amplia gama de aplicaciones.
+Su portabilidad, gracias a la Máquina Virtual de Java, permite ejecutar código Java en diversas plataformas sin
+necesidad de recompilación. Además, su orientación a objetos facilita la organización y reutilización del código,
+promoviendo un desarrollo más eficiente y mantenible. La gran comunidad de desarrolladores que respaldan a Java ha
+creado una vasta biblioteca de clases y frameworks, lo que agiliza el desarrollo de proyectos y proporciona soluciones
+a problemas comunes. La seguridad es otro aspecto destacado de Java, con mecanismos integrados para prevenir errores
+comunes y ataques maliciosos.
